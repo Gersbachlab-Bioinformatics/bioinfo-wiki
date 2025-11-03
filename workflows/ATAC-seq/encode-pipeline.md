@@ -2,13 +2,13 @@
 
 Here are some notes on how to run the ATAC-seq processing workflow developed by the ENCODE consortium. For further details about the pipeline, please refer to the original documentation [here](https://docs.google.com/document/d/1f0Cm4vRyDQDu0bMehHD7P7KOMxTOP-HiNoIvL1VcBt8/edit?tab=t.0) and in [github](https://github.com/ENCODE-DCC/atac-seq-pipeline). 
 
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Metadata](#metadata)
-- [Run](#run)
-- [Organize outputs](#outputs)
-- [Gotchas](#gotchas)
+- [Introduction](./encode-pipeline.md#introduction)
+- [Installation](./encode-pipeline.md#installation)
+- [Configuration](./encode-pipeline.md#configuration)
+- [Metadata](./encode-pipeline.md#metadata)
+- [Run](./encode-pipeline.md#run)
+- [Organize outputs](./encode-pipeline.md#outputs)
+- [Gotchas](./encode-pipeline.md#gotchas)
 
 ## Introduction
 
