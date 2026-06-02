@@ -18,7 +18,10 @@ Here is an skeleton of the sections that we will be adding in the coming weeks. 
 bioinfo-wiki/
 ├── protocols/       # Step-by-step analysis protocols
 ├── workflows/       # Computational workflows and pipelines
+│   └── ATAC-seq/
+│       └── encode-pipeline.md
 ├── tools/          # Documentation for bioinformatics tools
+│   └── cleanser.md
 ├── setup-guides/   # Environment and software setup instructions
 ├── best-practices/ # Guidelines and standards
 └── templates/      # Template files and starter scripts
